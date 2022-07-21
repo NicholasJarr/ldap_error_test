@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/quotaguard/socksify-ruby
+  revision: f19b5c052eb3f33fa58f31fde810ebcc4929556d
+  branch: master
+  specs:
+    socksify (1.5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -184,6 +191,7 @@ DEPENDENCIES
   puma (~> 4.1)
   rails (= 6.0.5)
   selenium-webdriver
+  socksify!
   tzinfo-data
   web-console (>= 3.3.0)
   webdrivers
