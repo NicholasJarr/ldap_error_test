@@ -95,7 +95,7 @@ GEM
     method_source (1.0.0)
     mini_mime (1.1.2)
     minitest (5.16.2)
-    net-ldap (0.16.1)
+    net-ldap (0.17.1)
     nio4r (2.5.8)
     nokogiri (1.13.7-x86_64-linux)
       racc (~> 1.4)
@@ -180,7 +180,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   jbuilder (~> 2.7)
   listen (~> 3.2)
-  net-ldap (= 0.16.1)
+  net-ldap (= 0.17.1)
   puma (~> 4.1)
   rails (= 6.0.5)
   selenium-webdriver
